@@ -6,7 +6,8 @@ import IconButton from '@mui/material/IconButton'
 import FacebookIcon from '@mui/icons-material/Facebook'
 import InstagramIcon from '@mui/icons-material/Instagram'
 import YouTubeIcon from '@mui/icons-material/YouTube'
-const logo = '/attached_assets/image_1768495771414.png'
+import logo from '../assets/image_17684957714146.png'
+// const logo = '/attached_assets/image_1768495771414.png'
 
 function Footer() {
   const currentYear = new Date().getFullYear()
@@ -38,7 +39,7 @@ function Footer() {
               sx={{
                 height: 80,
                 mb: 3,
-                filter: 'brightness(0) invert(1)',
+                // filter: 'brightness(0) invert(1)',
               }}
             />
             <Typography variant="body2" sx={{ opacity: 0.9, lineHeight: 1.8, mb: 3 }}>

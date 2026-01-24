@@ -2,19 +2,22 @@ import Box from '@mui/material/Box'
 import Container from '@mui/material/Container'
 import Typography from '@mui/material/Typography'
 import Grid from '@mui/material/Grid'
+import banarasSaree from '../assets/image_1768497890893.png'
+import tissueSaree from '../assets/image_1768498016275.png'
+import embroideryKurtis from '../assets/image_1768498226493.png'
 
 const galleryItems = [
   {
     title: 'Banaras Silk Sarees',
-    image: '/attached_assets/image_1768497890893.png',
+    image: banarasSaree //'/attached_assets/image_1768497890893.png',
   },
   {
     title: 'Tissue Silks',
-    image: '/attached_assets/image_1768498016275.png',
+    image: tissueSaree //'/attached_assets/image_1768498016275.png',
   },
   {
     title: 'Embroidery Kurtis',
-    image: '/attached_assets/image_1768498226493.png',
+    image: embroideryKurtis //'/attached_assets/image_1768498226493.png',
   },
 ]
 
