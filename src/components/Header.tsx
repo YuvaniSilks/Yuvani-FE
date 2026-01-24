@@ -12,7 +12,7 @@ import ListItemText from '@mui/material/ListItemText'
 import useScrollTrigger from '@mui/material/useScrollTrigger'
 import MenuIcon from '@mui/icons-material/Menu'
 import CloseIcon from '@mui/icons-material/Close'
-const logo = '/attached_assets/image_1768495771414.png'
+const logo = '/attached_assets/image_17684957714146.png'
 
 const navItems = [
   { label: 'Home', href: '#home' },
